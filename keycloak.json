@@ -1,0 +1,12 @@
+{
+  "realm": "New-Realm",
+  "auth-server-url": "http://localhost:8080/auth/",
+  "ssl-required": "external",
+  "resource": "client-nodejs",
+  "verify-token-audience": true,
+  "credentials": {
+    "secret": "556da94e-a1e2-42ab-999d-824d69db4cb2"
+  },
+  "use-resource-role-mappings": true,
+  "confidential-port": 0
+}
